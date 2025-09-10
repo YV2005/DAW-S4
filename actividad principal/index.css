@@ -1,9 +1,14 @@
-nav a {
-flex: 1;
-text-align: center;
+.logoReco{
+    height: 50px;
+    width: 50px;
+    
 }
-@media (max-width: 576px) {
-main {
-flex-direction: column;
+
+.recologo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
 }
-}
+
