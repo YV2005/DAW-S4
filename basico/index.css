@@ -1,0 +1,15 @@
+.contenedor {
+border: solid red 2px;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 200px;
+
+
+justify-content: space-around;
+}
+
+
+
+
+
